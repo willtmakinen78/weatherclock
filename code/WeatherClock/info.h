@@ -18,7 +18,7 @@
 #define API_ADDRESS "https://api.openweathermap.org/data/2.5/onecall?lat="
 
 // open weather map api key
-#define API_KEY "d325de53994395c990a5907fd647b3c4"
+#define API_KEY "######"
 
 // only want hourly forecast, so exclude everything else
 #define EXCLUSIONS "&exclude=current,minutely,daily&appid="
